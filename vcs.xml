@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/Paduamusical/Pedidos.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Paduamusical/Me_dis_a_Letra.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\SISTEMAT\StudioProjects" />
